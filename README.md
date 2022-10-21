@@ -11,10 +11,12 @@ Deep Learning Homework
   The aim of the project is to predict the age, gender and race of people on pictures.
   Our dataset is the UTKface dataset (available on Kaggle, link can be found in the notebook).
   We are going to try to use some CNN-s, and we also plan to try transfer learning.
-  When we have a modell with good enough performance, we are going to implement it to a mobile app.
+  
+  Optionail aims:
+  When we have a modell with good enough performance, we are going to try implementing it to a mobile app.
   If we have enough time and energy left, we might try the GAN model as well.
   
-  So our main goal is to make a very good model and then visualize the prediction process in a mobile app.
+  So our main goal is to make a very good model and optionally visualize the prediction process in a mobile app.
   
  ## Files:
   You can find an ipynb, which contains the code.
