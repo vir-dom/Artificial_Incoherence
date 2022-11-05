@@ -19,7 +19,8 @@ Deep Learning Homework
   So our main goal is to make a very good model and optionally visualize the prediction process in a mobile app.
   
  ## Files:
-  You can find an ipynb, which contains the code.
+  deeplearning_artificial_incoherence.ipynb is the notebook for the first milestone.
+  deeplearning_artificial_incoherence2.ipynb is the notebook for the second milestone.
   
   (Note: in the code, we used Google Drive as storage for our files. There are many steps where we saved some variables (X_train, X_test, ...)
    into a file on Drive, so that we do not have to run the code from the beginning every time. These files are too big to upload here, but we can share those on Drive      with you if it is needed. Also, the UTKface dataset was uploaded to Drive, and we loaded the data from there.)
