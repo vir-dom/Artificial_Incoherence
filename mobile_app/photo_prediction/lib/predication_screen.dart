@@ -2,6 +2,8 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:image_picker/image_picker.dart';
+import 'package:tflite/tflite.dart';
+
 
 class PredicationScreen extends StatefulWidget {
   const PredicationScreen({Key? key}) : super(key: key);
@@ -40,6 +42,30 @@ class _PredicationScreenState extends State<PredicationScreen> {
     } on PlatformException catch(e) {
       print('Failed to pick image: $e');
     }
+  }
+
+  Future<void> _initTensorFlow() async {
+    String? res = await Tflite.loadModel(
+        model: "assets/model.tflite",
+        labels: "assets/labels.txt",
+        numThreads: 1, // defaults to 1
+        isAsset: true, // defaults to true, set to false to load resources outside assets
+        useGpuDelegate: false // defaults to false, set to true to use GPU delegate
+    );
+  }
+
+  //TODO Predict method
+
+  @override
+  void initState() async {
+    _initTensorFlow();
+    super.initState();
+  }
+
+  @override
+  void dispose() async {
+    await Tflite.close();
+    super.dispose();
   }
 
   @override
