@@ -24,3 +24,5 @@ Deep Learning Homework
   
   (Note: in the code, we used Google Drive as storage for our files. There are many steps where we saved some variables (X_train, X_test, ...)
    into a file on Drive, so that we do not have to run the code from the beginning every time. These files are too big to upload here, but we can share those on Drive      with you if it is needed. Also, the UTKface dataset was uploaded to Drive, and we loaded the data from there.)
+   The link to our Drive repository with the data: https://drive.google.com/drive/folders/1nQd8xP1kmc9ilUf_cSv8mgk4M9D-Nx8S?usp=share_link
+   If you want to run the codes, you might need to change the path to be able to read the files from Drive.
