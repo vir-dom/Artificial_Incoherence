@@ -1,0 +1,9 @@
+services:
+  application:
+    container_name: artificial_incoherence
+    image: balintgerinm/artificial_incoherence
+    ports:
+      - "5000:5000"
+    build:
+      context: .
+      dockerfile: Dockerfile
