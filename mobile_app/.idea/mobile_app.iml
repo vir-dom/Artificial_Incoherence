@@ -6,6 +6,24 @@
       <excludeFolder url="file://$MODULE_DIR$/photo_prediction/build" />
       <excludeFolder url="file://$MODULE_DIR$/photo_prediction/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/photo_prediction/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/tflite_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/tflite_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/tflite_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/camera_avfoundation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/camera_avfoundation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/camera_avfoundation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/image_picker_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/image_picker_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/image_picker_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/camera_avfoundation/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/camera_avfoundation/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/camera_avfoundation/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/image_picker_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/image_picker_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/image_picker_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/tflite_flutter/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/tflite_flutter/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/photo_prediction/ios/.symlinks/plugins/tflite_flutter/example/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -7,9 +7,13 @@ import 'package:photo_prediction/predication_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  runApp(const MaterialApp(
+  runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    home: PredicationScreen(),
+    theme: ThemeData.from(
+      colorScheme: ColorScheme.fromSwatch(primarySwatch: Colors.green),
+      useMaterial3: true,
+    ),
+    home: const PredicationScreen(),
   ));
   HttpOverrides.global = MyHttpOverrides();
 }
