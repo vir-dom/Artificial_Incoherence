@@ -20,7 +20,7 @@ Deep Learning Homework
  ## Files:
   <li>deeplearning_artificial_incoherence.ipynb is the notebook for the first milestone
   <li>deeplearning_artificial_incoherence2.ipynb is the notebook for the second milestone (this includes the model training and evaluation)
-  <li>deeplearning_artificial_incoherence_final.ipynb is the notebook for the final submission. This has our whole data preparation, modeling, evaluation, hyperparameter optimization code. This notebook includes a lot of comments and explanation.
+  <li>deeplearning_artificial_incoherence_final.ipynb is the notebook for the final submission. This has our whole data preparation, modeling, evaluation, hyperparameter optimization code. This notebook includes a lot of comments and explanation. For running the codes there are comments in this notebook with every important information.
   <li> mobile app ?
   
   (Note: in the code, we used Google Drive as storage for our files. There are many steps where we saved some variables (X_train, X_test, ...)
