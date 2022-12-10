@@ -15,7 +15,7 @@ Deep Learning Homework
   Optionail aims:
   When we made a modell with good enough performance, we implemented it to a mobile app.
   
-  So our main goal is to make a very good model and visualize the prediction process in a mobile app.
+  So our main goal was to make a very good model and visualize the prediction process in a mobile app.
   
  ## Files:
   <li>deeplearning_artificial_incoherence.ipynb is the notebook for the first milestone
