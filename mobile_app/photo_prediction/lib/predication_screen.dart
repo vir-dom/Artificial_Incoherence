@@ -110,7 +110,7 @@ class _PredicationScreenState extends State<PredicationScreen> {
                               style: TextStyle(fontSize: 28.0),
                             )
                           : Text(
-                              'This person is a ${_age!.split('.')[0]} year old $_race $_gender',
+                              'This person is a ${_age!.split('.')[0]} years old $_race $_gender',
                               style: const TextStyle(fontSize: 20.0),
                             ),
                     ),
