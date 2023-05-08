@@ -9,7 +9,8 @@ The primary objective of this project is to utilize the UTKface dataset (availab
 
 ---
 
-### Results:
+### Results: 
+The results of InceptionV3 based model were:
 
 | Variable	| Age	| Gender	| Race |
 | --- |	--- | --- |	--- |
