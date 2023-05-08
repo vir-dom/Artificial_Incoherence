@@ -12,6 +12,7 @@ The primary objective of this project is to utilize the UTKface dataset (availab
 ### Results:
 
 | Variable	| Age	| Gender	| Race |
+| --- |	--- | --- |	--- |
 | Accuracy	| -	| 0.8307 |	0.9239 |
 | F1	| - |	0.9191	| 0.7110 |
 | Precision	| - |	0.9272	| - |
