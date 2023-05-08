@@ -3,22 +3,20 @@
 Bálint Gergő (O78UXU), Medgyes Csaba (RF8I8P), Virsinger Dominika (RSABSD)
 
 ---
-### Result:
+ 
+ ## Project:
+The primary objective of this project is to utilize the UTKface dataset (available at https://www.kaggle.com/datasets/jangedoo/utkface-new?fbclid=IwAR0X1gR-ad1WuZH2QymWFyu_6ZIPmyj4m-9Y8H-5gn4f4kDD5BE8dm2xPJQ) in order to predict the age, gender, and race of individuals depicted in images. To accomplish this task, we developed a CNN model and applied transfer learning techniques using pretrained models, including Xcpetion and InceptionV3. Additionally, we aimed to implement the model into a mobile app after achieving satisfactory performance. Ultimately, our primary objective was to create a highly accurate model and visually represent the prediction process within a mobile app.
+
+---
+
+### Results:
 
 #todo
 
---- 
+---
 
- 
- ## Project:
-  The aim of the project is to predict the age, gender and race of people on pictures.
-  Our dataset is the UTKface dataset (https://www.kaggle.com/datasets/jangedoo/utkface-new?fbclid=IwAR0X1gR-ad1WuZH2QymWFyu_6ZIPmyj4m-9Y8H-5gn4f4kDD5BE8dm2xPJQ).
-  We made a CNN model, and also used transfer learning with some pretrained models (Xcpetion, InceptionV3)
-  
-  Optionail aims:
-  When we made a modell with good enough performance, we implemented it to a mobile app.
-  
-  So our main goal was to make a very good model and visualize the prediction process in a mobile app.
+
+
   
  ## Files:
   <li>deeplearning_artificial_incoherence.ipynb is the notebook for the first milestone
