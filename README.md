@@ -1,11 +1,8 @@
-# Artificial_Incoherence
-Deep Learning Homework
+#Deep Learning: Artificial_Incoherence
+---
+Bálint Gergő (O78UXU), Medgyes Csaba (RF8I8P), Virsinger Dominika (RSABSD)
+--- 
 
-## Team name: Artificial Incoherence
-## Team members:
- - Bálint Gergő (O78UXU)
- - Medgyes Csaba (RF8I8P)
- - Virsinger Dominika (RSABSD)
  
  ## Project:
   The aim of the project is to predict the age, gender and race of people on pictures.
