@@ -3,7 +3,9 @@
 Bálint Gergő (O78UXU), Medgyes Csaba (RF8I8P), Virsinger Dominika (RSABSD)
 
 ---
+### Result:
 
+#todo
 
 --- 
 
