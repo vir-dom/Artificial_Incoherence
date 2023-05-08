@@ -1,8 +1,9 @@
 # Deep Learning: Artificial_Incoherence
 
+Bálint Gergő (O78UXU), Medgyes Csaba (RF8I8P), Virsinger Dominika (RSABSD)
+
 ---
 
-Bálint Gergő (O78UXU), Medgyes Csaba (RF8I8P), Virsinger Dominika (RSABSD)
 
 --- 
 
